@@ -1,0 +1,33 @@
+{
+    "current_day": 1,
+    "completed_days": [],
+    "study_plan": {
+        "Day 1": "### Study Plan for Introduction to Graphs",
+        "Day 2": "",
+        "Day 3": "#### Day 1: Understanding the Basics of Graphs",
+        "Day 4": "- **Task:** Read about what a graph is and its components (vertices, edges).",
+        "Day 5": "- **Study Time:** 1 hour",
+        "Day 6": "",
+        "Day 7": "#### Day 2: Types of Graphs",
+        "Day 8": "- **Task:** Learn about different types of graphs (undirected, directed, weighted, unweighted).",
+        "Day 9": "- **Study Time:** 1 hour",
+        "Day 10": "",
+        "Day 11": "#### Day 3: Graph Representations",
+        "Day 12": "- **Task:** Study different graph representations (adjacency matrix, adjacency list).",
+        "Day 13": "- **Study Time:** 1 hour",
+        "Day 14": "",
+        "Day 15": "#### Day 4: Graph Traversal Techniques",
+        "Day 16": "- **Task:** Learn about Depth-First Search (DFS) and Breadth-First Search (BFS) algorithms.",
+        "Day 17": "- **Study Time:** 1 hour",
+        "Day 18": "",
+        "Day 19": "#### Day 5: Graph Properties",
+        "Day 20": "- **Task:** Explore properties of graphs (connectivity, cycles, bipartite graphs).",
+        "Day 21": "- **Study Time:** 1 hour",
+        "Day 22": "",
+        "Day 23": "#### Day 6: Review and Practice Problems",
+        "Day 24": "- **Task:** Review all topics covered; solve practice problems related to graphs.",
+        "Day 25": "- **Study Time:** 1 hour",
+        "Day 26": "",
+        "Day 27": "This plan ensures each concept is tackled with sufficient time for comprehension and reinforces understanding through practice. Good luck with your exam preparation!"
+    }
+}
